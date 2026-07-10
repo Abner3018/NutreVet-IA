@@ -1,0 +1,202 @@
+{
+  "mascotas": [
+    {
+      "especie": "Perro",
+      "raza": "Golden Retriever",
+      "riesgos_geneticos": [
+        "Displasia de cadera y codo",
+        "Tendencia a la obesidad",
+        "Mayor riesgo de desarrollo de tumores/cáncer"
+      ],
+      "dieta_organica_recomendada": [
+        "Salmón salvaje o aceite de krill (alto en Omega-3 para desinflamar articulaciones)",
+        "Arándanos y frambuesas (carga alta de antioxidantes para prevención celular)",
+        "Caldo de huesos de cocción lenta (fuente natural de colágeno y condroitina)"
+      ],
+      "alimentos_a_evitar": [
+        "Exceso de carbohidratos de rápida absorción (arroz blanco, maíz) que favorecen la obesidad",
+        "Premios altos en grasas saturadas"
+      ]
+    },
+    {
+      "especie": "Perro",
+      "raza": "Bulldog Francés",
+      "riesgos_geneticos": [
+        "Problemas respiratorios (Síndrome Braquicefálico)",
+        "Alergias cutáneas y dermatitis",
+        "Sensibilidad gastrointestinal"
+      ],
+      "dieta_organica_recomendada": [
+        "Carne de pavo o conejo (proteínas magras e hipoalergénicas, fáciles de digerir)",
+        "Camote/Batata (carbohidrato complejo que no irrita el estómago)",
+        "Aceite de coco prensado en frío (mejora la barrera cutánea y el pelaje)"
+      ],
+      "alimentos_a_evitar": [
+        "Pollo comercial genérico y carne de res (son los alérgenos más comunes en esta raza)",
+        "Trigo, soya y lácteos (alta probabilidad de causar gases crónicos)"
+      ]
+    },
+    {
+      "especie": "Perro",
+      "raza": "Bulldog Inglés",
+      "riesgos_geneticos": [
+        "Problemas respiratorios crónicos",
+        "Obesidad severa",
+        "Sensibilidad digestiva y gases"
+      ],
+      "dieta_organica_recomendada": [
+        "Proteína de alta digestibilidad como pescado blanco para evitar fermentación gástrica",
+        "Calabaza cocida (fibra moderada para regular el tránsito intestinal)",
+        "Kéfir o yogur natural sin azúcar como fuente de prebióticos naturales"
+      ],
+      "alimentos_a_evitar": [
+        "Alimentos altos en grasas saturadas",
+        "Cereales pesados y legumbres que aumenten la flatulencia"
+      ]
+    },
+    {
+      "especie": "Perro",
+      "raza": "Labrador Retriever",
+      "riesgos_geneticos": [
+        "Displasia de cadera severa",
+        "Obesidad de rápido desarrollo",
+        "Problemas oculares degenerativos"
+      ],
+      "dieta_organica_recomendada": [
+        "Carne magra suplementada con L-carnitina para la quema de grasas",
+        "Pies de pollo o cartílago natural (fuente de Glucosamina y Condroitina)",
+        "Zanahorias frescas (betacarotenos para la salud ocular)"
+      ],
+      "alimentos_a_evitar": [
+        "Golosinas procesadas con harinas",
+        "Exceso de grasas saturadas y sobras de comida humana"
+      ]
+    },
+    {
+      "especie": "Perro",
+      "raza": "Chihuahua",
+      "riesgos_geneticos": [
+        "Enfermedad periodontal y sarro dental",
+        "Hipoglucemia (bajada de azúcar)",
+        "Colapso traqueal"
+      ],
+      "dieta_organica_recomendada": [
+        "Hígado de pollo en porciones pequeñas para mantener niveles de glucosa",
+        "Pequeñas cantidades de manzana sin semillas (limpieza mecánica dental)",
+        "Suplementos de Calcio y Fósforo equilibrados para fortalecer huesos pequeños"
+      ],
+      "alimentos_a_evitar": [
+        "Trozos de comida grandes (riesgo de asfixia)",
+        "Largos periodos de ayuno que provoquen hipoglucemia"
+      ]
+    },
+    {
+      "especie": "Perro",
+      "raza": "Dachshund (Teckel)",
+      "riesgos_geneticos": [
+        "Problemas de columna y hernias discales",
+        "Obesidad (que agrava la espalda)",
+        "Diabetes mellitus"
+      ],
+      "dieta_organica_recomendada": [
+        "Proteína magra para mantener masa muscular sin subir de peso",
+        "Hojas verdes (Magnesio para la función neuromuscular)",
+        "Calcio orgánico proveniente de cáscara de huevo triturada"
+      ],
+      "alimentos_a_evitar": [
+        "Alimentos con alto índice glucémico (azúcares)",
+        "Cualquier exceso calórico que genere sobrepeso"
+      ]
+    },
+    {
+      "especie": "Gato",
+      "raza": "Gato Persa",
+      "riesgos_geneticos": [
+        "Enfermedad Renal Poliquística (PKD)",
+        "Obstrucción intestinal por bolas de pelo",
+        "Cristales urinarios"
+      ],
+      "dieta_organica_recomendada": [
+        "Pollo o pavo hervido con alto contenido de caldo (hidratación vital)",
+        "Pasta de malta orgánica o puré de calabaza (ayuda a expulsar el pelo)",
+        "Aceite de pescado (apoyo antiinflamatorio urinario)"
+      ],
+      "alimentos_a_evitar": [
+        "Dietas basadas 100% en pellets secos",
+        "Alimentos con alto contenido de fósforo y magnesio"
+      ]
+    },
+    {
+      "especie": "Gato",
+      "raza": "Maine Coon",
+      "riesgos_geneticos": [
+        "Cardiomiopatía Hipertrófica (corazón)",
+        "Desgaste articular por gran tamaño",
+        "Gingivitis y problemas dentales"
+      ],
+      "dieta_organica_recommended": [
+        "Corazón de res (fuente natural de Taurina para el corazón)",
+        "Mejillón de labios verdes (Glucosamina para articulaciones grandes)",
+        "Yema de huevo de codorniz y Omega 3/6 para el pelaje denso"
+      ],
+      "alimentos_a_evitar": [
+        "Dietas bajas en proteína animal",
+        "Atún enlatado comercial frecuente (metales pesados)"
+      ]
+    },
+    {
+      "especie": "Gato",
+      "raza": "Siamés",
+      "riesgos_geneticos": [
+        "Problemas bronquiales y asma",
+        "Cálculos urinarios",
+        "Tendencia al estrés y ansiedad"
+      ],
+      "dieta_organica_recomendada": [
+        "Pescado azul pequeño (EPA/DHA para reducir inflamación bronquial)",
+        "Alimentos ricos en L-triptófano para regular el estado de ánimo",
+        "Proteínas magras con control estricto de Magnesio"
+      ],
+      "alimentos_a_evitar": [
+        "Carbohidratos refinados",
+        "Lácteos (intolerancia común que genera estrés digestivo)"
+      ]
+    },
+    {
+      "especie": "Gato",
+      "raza": "Esfinge (Sphynx)",
+      "riesgos_geneticos": [
+        "Sensibilidad térmica extrema",
+        "Piel grasa y dermatitis sebácea",
+        "Cardiomiopatía"
+      ],
+      "dieta_organica_recomendada": [
+        "Dieta con alto contenido calórico para mantener temperatura corporal",
+        "Aceites esenciales (Ácidos grasos) para regular la grasa de la piel",
+        "Vitaminas A y E para la regeneración del tejido cutáneo"
+      ],
+      "alimentos_a_evitar": [
+        "Dietas de baja densidad energética",
+        "Alimentos procesados con colorantes artificiales"
+      ]
+    },
+    {
+      "especie": "Gato",
+      "raza": "British Shorthair",
+      "riesgos_geneticos": [
+        "Tendencia a la obesidad",
+        "Problemas cardíacos",
+        "Gingivitis"
+      ],
+      "dieta_organica_recomendada": [
+        "L-carnitina para facilitar el metabolismo de las grasas",
+        "Pescado rico en EPA/DHA para apoyo cardiovascular",
+        "Alimentos de textura firme que promuevan la masticación y limpieza dental"
+      ],
+      "alimentos_a_evitar": [
+        "Snacks altos en azúcar",
+        "Exceso de comida húmeda sin control de porciones"
+      ]
+    }
+  ]
+}

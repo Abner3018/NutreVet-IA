@@ -1,0 +1,38 @@
+2026-07-09 21:49:25,090 [INFO] Cargando repositorio vectorial ChromaDB desde persistencia local.
+2026-07-09 21:50:11,185 [INFO] Sesión clínica finalizada por el usuario voluntariamente.
+2026-07-09 21:50:24,225 [INFO] Cargando repositorio vectorial ChromaDB desde persistencia local.
+2026-07-09 21:50:56,151 [INFO] Transacción iniciada - Input de usuario: 'Si tengo a mi chiguagua enfermo que hago'
+2026-07-09 21:50:58,122 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2026-07-09 21:51:05,607 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-09 21:51:05,635 [INFO] Transacción completada exitosamente. Latencia: 9.48s
+2026-07-09 21:51:29,904 [INFO] Transacción iniciada - Input de usuario: 'Gracias'
+2026-07-09 21:51:32,107 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2026-07-09 21:51:34,014 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-09 21:51:34,017 [INFO] Transacción completada exitosamente. Latencia: 4.11s
+2026-07-09 21:52:42,193 [INFO] Cargando repositorio vectorial ChromaDB desde persistencia local.
+2026-07-09 21:53:23,639 [INFO] Transacción iniciada - Input de usuario: 'Mi perro esta con vomito y esta temblando, es una mezcla de chiguagua con shitsu'
+2026-07-09 21:53:25,226 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2026-07-09 21:53:33,194 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-09 21:53:33,210 [INFO] Transacción completada exitosamente. Latencia: 9.57s
+2026-07-09 22:41:57,847 [INFO] Cargando repositorio vectorial ChromaDB desde persistencia local.
+2026-07-09 22:42:47,446 [INFO] Transacción iniciada - Input de usuario: '¿Qué riesgos genéticos tiene el Golden Retriever?'
+2026-07-09 22:43:05,371 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2026-07-09 22:43:20,496 [INFO] Retrying request to /chat/completions in 0.411425 seconds
+2026-07-09 22:43:32,938 [INFO] Retrying request to /chat/completions in 0.796891 seconds
+2026-07-09 22:43:41,877 [ERROR] Falla crítica en respuesta del Agente: Connection error. | Latencia registrada: 54.43s
+2026-07-09 22:44:23,532 [INFO] Transacción iniciada - Input de usuario: '¿Qué riesgos genéticos tiene el Golden Retriever? '
+2026-07-09 22:44:24,866 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2026-07-09 22:44:27,743 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-09 22:44:27,763 [INFO] Transacción completada exitosamente. Latencia: 4.23s
+2026-07-09 22:44:43,029 [INFO] Transacción iniciada - Input de usuario: 'Me duele la cabeza, ¿puedo tomar paracetamol?'
+2026-07-09 22:44:43,810 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2026-07-09 22:44:45,814 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-09 22:44:45,818 [WARNING] Protocolo de seguridad activado: Intento de consulta no permitida / Inyección bloqueada de manera segura. Latencia: 2.79s
+2026-07-09 22:54:40,508 [INFO] Transacción iniciada - Input de usuario: '¿Qué riesgos genéticos tiene el Golden Retriever?'
+2026-07-09 22:54:42,045 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2026-07-09 22:54:44,270 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-09 22:54:44,274 [INFO] Transacción completada exitosamente. Latencia: 3.77s
+2026-07-09 23:03:08,803 [INFO] Transacción iniciada - Input de usuario: 'Me duele la cabeza, ¿puedo tomar paracetamol?'
+2026-07-09 23:03:10,334 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2026-07-09 23:03:12,530 [INFO] HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-09 23:03:12,531 [WARNING] Protocolo de seguridad activado: Intento de consulta no permitida / Inyección bloqueada de manera segura. Latencia: 3.73s

@@ -1,0 +1,19 @@
+// Estos son el cerebro y conectan todo
+pip install openai
+pip install langchain
+pip install langchain-openai
+
+pip install langchain-community pypdf
+pip install -U langchain-chroma
+
+// Este sirve para que el sistema lea el API Key de .env
+pip install python-dotenv
+
+// "Recuerde" el pdf
+pip install chromadb
+
+// Lector de pdf
+pip install pypdf
+
+// Para tablas
+pip install tabulate
